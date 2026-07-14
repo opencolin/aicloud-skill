@@ -29,7 +29,7 @@ metadata:
     primaryEnv: NEBIUS_PROFILE
     emoji: "☁️"
     os: [macos, linux]
-    homepage: "https://github.com/colygon/nebius-skill"
+    homepage: "https://github.com/opencolin/aicloud-skill"
 ---
 
 # /nebius — Nebius AI Cloud CLI Skill

@@ -1,6 +1,8 @@
-# nebius-skill
+# aicloud-skill
 
 A dual-compatible skill for **Claude Code** and **OpenClaw** that enables AI agents to deploy and manage infrastructure on [Nebius AI Cloud](https://nebius.com) using the `nebius` CLI, Go SDK, Python SDK, Terraform, or raw gRPC API.
+
+> Cloned from [nebius-skill](https://github.com/opencolin/nebius-skill).
 
 Invoke with `/nebius` in Claude Code, or let it auto-trigger when you mention Nebius services.
 

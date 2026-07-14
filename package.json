@@ -1,8 +1,8 @@
 {
-  "name": "nebius-skill-docs",
+  "name": "aicloud-skill-docs",
   "type": "module",
   "version": "1.0.0",
-  "description": "Documentation for nebius-skill using Starlight",
+  "description": "Documentation for aicloud-skill using Starlight",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

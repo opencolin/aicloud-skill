@@ -8,7 +8,7 @@ export default defineConfig({
 			title: 'Nebius Skill',
 			description: 'Deploy and manage infrastructure on Nebius AI Cloud using Claude Code',
 			social: [
-				{ label: 'GitHub', href: 'https://github.com/opencolin/nebius-skill', icon: 'github' },
+				{ label: 'GitHub', href: 'https://github.com/opencolin/aicloud-skill', icon: 'github' },
 			],
 			sidebar: [
 				{
