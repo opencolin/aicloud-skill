@@ -30,13 +30,13 @@ Invoke with `/nebius` in Claude Code, or let it auto-trigger when you mention Ne
 Clone into your personal skills directory:
 
 ```bash
-git clone https://github.com/colygon/nebius-skill.git ~/.claude/skills/nebius
+git clone https://github.com/opencolin/nebius-skill.git ~/.claude/skills/nebius
 ```
 
 Or for project-level use:
 
 ```bash
-git clone https://github.com/colygon/nebius-skill.git .claude/skills/nebius
+git clone https://github.com/opencolin/nebius-skill.git .claude/skills/nebius
 ```
 
 ### OpenClaw
@@ -44,7 +44,7 @@ git clone https://github.com/colygon/nebius-skill.git .claude/skills/nebius
 Clone into your workspace skills:
 
 ```bash
-git clone https://github.com/colygon/nebius-skill.git ~/.openclaw/workspace/skills/nebius
+git clone https://github.com/opencolin/nebius-skill.git ~/.openclaw/workspace/skills/nebius
 ```
 
 ## Prerequisites
@@ -210,7 +210,7 @@ For more details, see the troubleshooting table in [SKILL.md](SKILL.md) and [ref
 
 ## Related Projects
 
-- [openclaw-deploy](https://github.com/colygon/openclaw-deploy) - Deployment toolkit for running OpenClaw/NemoClaw on Nebius
+- [openclaw-deploy](https://github.com/opencolin/openclaw-deploy) - Deployment toolkit for running OpenClaw/NemoClaw on Nebius
 - [Nebius CLI docs](https://docs.nebius.com/cli/) - Official CLI documentation
 - [Nebius API](https://github.com/nebius/api) - gRPC API proto definitions and SDKs
 
